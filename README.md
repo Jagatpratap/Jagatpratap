@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jagat Pratap Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **ReactPress**
+- 🔭 I’m currently working on **SAAS Product For Instagram**
 
 - 🌱 I’m currently learning **Cypress**
 
-- 👨‍💻 All of my projects are available at [jagatpratap.in](jagatpratap.in)
-
-- 💬 Ask me about **NextJs, Express, ReactJS, Python3, Flask**
+- 💬 Ask me about **NextJs, Express, ElysiaJS, ReactJS, Python3, Flask**
 
 - 📫 How to reach me **pratapjagat08@gmail.com**
 
